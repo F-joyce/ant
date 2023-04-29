@@ -1,0 +1,8 @@
+archive.csv
+times.csv
+traj*
+ctrl*
+cmaes*
+shapes/
+./*
+!./normal/
