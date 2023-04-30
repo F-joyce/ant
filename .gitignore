@@ -4,5 +4,4 @@ traj*
 ctrl*
 cmaes*
 shapes/
-./*
-!./normal/
+
